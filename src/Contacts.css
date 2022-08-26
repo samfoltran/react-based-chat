@@ -1,0 +1,33 @@
+#contacts{
+    width:250px;
+    background: #789;
+    height:100%;
+    position:absolute;
+    left:0;
+    font:10pt Arial;
+}
+  
+#contacts ul li a{
+    padding:10px;
+    display: block;
+}
+#contacts ul li a:hover{
+    cursor:pointer;
+}
+#contacts ul li a:hover,
+#contacts ul li a.active{
+    padding:10px;
+    display: block;
+    background: #678;
+}
+#contacts ul li a img{
+    width:50px;
+    float:left;
+    margin-right:10px;
+}
+#contacts ul li a p{
+    float:left;
+    margin-top:5px;
+    color:#222;
+    font-weight:bold;
+}

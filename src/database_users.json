@@ -1,0 +1,141 @@
+{"users" : [
+    {
+        "key": 1,
+        "name": "Jackson",
+        "picture": "jackson.png",
+        "conversation": [
+            {
+                "key": 1,
+                "myMessage": true,
+                "date": "17/08/2022 18:15",
+                "text": "Hey Jackson. Como você está?"
+            },
+            {
+                "key": 2,
+                "myMessage": false,
+                "date": "17/08/2022 18:16",
+                "text": "Ei! Estou ótimo. E como você está?"
+            },
+            {
+                "key": 3,
+                "myMessage": true,
+                "date": "17/08/2022 18:17",
+                "text": "Bom saber! Estou ótimo."
+            },
+            {
+                "key": 4,
+                "myMessage": true,
+                "date": "17/08/2022 18:22",
+                "text": "Jackson, você fez aquele projeto da aula de programação?"
+            },
+            {
+                "key": 5,
+                "myMessage": false,
+                "date": "17/08/2022 18:23",
+                "text": "Claro! Eu não deixo de fazer as lições."
+            }
+        ]
+    },
+    {
+        "key": 2,
+        "name": "Jose",
+        "picture": "jose.png",
+        "conversation": [
+            {
+                "key": 1,
+                "myMessage": true,
+                "date": "17/08/2022 18:15",
+                "text": "Hey Jose. Tudo bem?"
+            },
+            {
+                "key": 2,
+                "myMessage": true,
+                "date": "17/08/2022 18:16",
+                "text": "Você fez sua parte no trabalho de banco de dados?"
+            },
+            {
+                "key": 3,
+                "myMessage": false,
+                "date": "17/08/2022 18:22",
+                "text": "Cara, estamos lascados. Não fiz nada!"
+            }
+        ]
+    },
+    {
+        "key": 3,
+        "name": "Theo",
+        "picture": "theo.png",
+        "conversation": [
+            {
+                "key": 5,
+                "myMessage": true,
+                "date": "17/08/2022 18:05",
+                "text": "Theo, você tirou as fotos que conversamos?"
+            },
+            {
+                "key": 6,
+                "myMessage": false,
+                "date": "17/08/2022 18:08",
+                "text": "Sim, estão comigo!"
+            }
+        ]
+    },
+
+    {
+        "key": 4,
+        "name": "Julia",
+        "picture": "julia.png",
+        "conversation": [
+            {
+                "key": 7,
+                "myMessage": true,
+                "date": "17/08/2022 15:31",
+                "text": "Julia, como está sua irmã?"
+            },
+            {
+                "key": 8,
+                "myMessage": false,
+                "date": "17/08/2022 16:05",
+                "text": "Ela está melhor! Obrigado por perguntar <3"
+            }
+        ]
+    },
+    {
+        "key": 5,
+        "name": "Maria",
+        "picture": "maria.png",
+        "conversation": [
+            {
+                "key": 10,
+                "myMessage": false,
+                "date": "17/08/2022 12:02",
+                "text": "Olá! Está aí?"
+            },
+            {
+                "key": 10,
+                "myMessage": false,
+                "date": "17/08/2022 12:45",
+                "text": "Hey! Você não me respondeu!"
+            }
+        ]
+    },
+    {
+        "key": 6,
+        "name": "Rebeca",
+        "picture": "rebeca.png",
+        "conversation": [
+            {
+                "key": 11,
+                "myMessage": false,
+                "date": "17/08/2022 11:15",
+                "text": "Acho bom Theo acertar nas fotos! Preciso que tudo esteja perfeito!"
+            },
+            {
+                "key": 12,
+                "myMessage": false,
+                "date": "17/08/2022 11:48",
+                "text": "Fique tranquila, Receba! Theo manda muito bem!"
+            }
+        ]
+    }
+]}
